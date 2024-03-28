@@ -60,7 +60,7 @@ header{
     transform: translateY(-50%); /* Center the image vertically */
     width: 200%; /* Make sure the width is double the container width to cover the movement */
     height: 100%; /* Set the height to match the container height */
-    background-image: url('../Project2/images/advertisment.png'); /* Set the background image */
+    background-image: url('images/advertisment.png'); /* Set the background image */
     background-repeat: repeat-x; /* Repeat the image along the x-axis */
     animation: moveImage 20s linear infinite; /* Animation properties */
 }
