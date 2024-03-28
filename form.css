@@ -395,6 +395,7 @@ footer {
         nav{
             display: none;
         }
+        /*
         #menu-toggler{
             width: 36px;
             height: 36px;
@@ -403,6 +404,7 @@ footer {
         #menu-toggler:checked + nav{
             /*display: block;*/
         }
+        */
     }
     .section2 {
         .gallery {
